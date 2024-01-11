@@ -51,18 +51,12 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/jeswinambati/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="http://x.com/jeswinsaidhu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/@JeswinSaidhu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="http://instagram.com/jeswinsaidhu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+    <p align="left">
+      <a href="https://linkedin.com/in/jeswinambati" target="blank"><img align="center" src="![linkedin](https://github.com/JeswinSaidhu/jeswinsaidhu/assets/81647613/9b1b5af3-f47b-47ca-a1b8-4cac941d8240)
+" alt="jeswinambati" height="30" width="40" /></a>
+      <a href="https://twitter.com/jeswinsaidhu" target="blank"><img align="center" src="![twitter](https://github.com/JeswinSaidhu/jeswinsaidhu/assets/81647613/e847b737-6691-40a1-8ea7-43dfd50e1f6f)
+" alt="jeswinsaidhu" height="30" width="40" /></a>
+    </p>
 </div>
 
 ###
