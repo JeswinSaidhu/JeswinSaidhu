@@ -52,10 +52,8 @@
 
 <div align="left">
     <p align="left">
-      <a href="https://linkedin.com/in/jeswinambati" target="blank"><img align="center" src="![linkedin](https://github.com/JeswinSaidhu/jeswinsaidhu/assets/81647613/9b1b5af3-f47b-47ca-a1b8-4cac941d8240)
-" alt="jeswinambati" height="30" width="40" /></a>
-      <a href="https://twitter.com/jeswinsaidhu" target="blank"><img align="center" src="![twitter](https://github.com/JeswinSaidhu/jeswinsaidhu/assets/81647613/e847b737-6691-40a1-8ea7-43dfd50e1f6f)
-" alt="jeswinsaidhu" height="30" width="40" /></a>
+      <a href="https://linkedin.com/in/jeswinambati" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="jeswinambati" height="40" width="40" /></a>
+      <a href="https://twitter.com/jeswinsaidhu" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="jeswinsaidhu" height="40" width="40" /></a>
     </p>
 </div>
 
