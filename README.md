@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jeswin, and I'm a Frontend Developer, from Hyderabad, India.</p>
+<p align="left">My name is Jeswin, and I'm a MERN Stack Developer, from Hyderabad, India.</p>
 
 ###
 
@@ -40,11 +40,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
 
-###
-
-<p align="left">📚 I'm currently learning backend.</p>
 
 ###
 
